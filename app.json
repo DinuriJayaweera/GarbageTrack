@@ -30,8 +30,7 @@
       "expo-router"
     ],
     "experiments": {
-      "typedRoutes": true
-      //dinu_comment
+      "typedRoutes": true 
     }
   }
 }
